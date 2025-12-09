@@ -9,4 +9,4 @@ image:
   repository: myproject/form
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v421"
+  tag: "1.7.4"
